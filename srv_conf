@@ -1,0 +1,9 @@
+## Bare metal specs
+#  CPU: Intel XEON 16 core
+#  RAM: 64G
+#  HDD: 1.2T
+
+## Servers to be implemented: 5 
+
+## Server 1
+#  CPU: 4 core
